@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(189, 106, 189);
+    background-color: #acacff;
 }
 
 main {
@@ -38,4 +38,9 @@ a {
 a:hover {
     text-decoration: underline;
     color: rgb(26, 26, 255);
+}
+
+abbr {
+    text-decoration: none;
+    font-weight: 600;
 }
